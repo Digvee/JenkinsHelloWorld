@@ -1,4 +1,0 @@
-jenkins
-
-root@ip-172-31-45-105:~# sudo cat /var/lib/jenkins/secrets/initialAdminPassword
-d4981f99355a43efa3edd4870a6bdabd

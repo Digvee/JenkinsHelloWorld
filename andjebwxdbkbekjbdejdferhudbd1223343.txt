@@ -1,3 +1,0 @@
-andjebwxdbkbekjbdejdferhudbd1223343444
-
-localhost:8080/job/HelloWorld/build?token=andjebwxdbkbekjbdejdferhudbd1223343444
